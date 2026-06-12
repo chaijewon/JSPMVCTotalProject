@@ -58,5 +58,9 @@ p{
   </div>
 </body>
 </html>
+<%--
+   git config --global user.name "git name"
+   git config --global user.email ""
+ --%>
 
 
